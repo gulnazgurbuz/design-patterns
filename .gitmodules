@@ -1,0 +1,3 @@
+[submodule "Packages/FactoryPattern"]
+	path = Packages/FactoryPattern
+	url = git@github.com:gulnazgurbuz/factory-pattern.git
